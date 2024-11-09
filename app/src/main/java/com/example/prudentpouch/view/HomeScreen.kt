@@ -7,5 +7,6 @@ import com.example.prudentpouch.viewmodel.MyViewModel
 
 @Composable
 fun HomeScreen(navController: NavController, vm: MyViewModel) {
-
+    Box {
+    }
 }
